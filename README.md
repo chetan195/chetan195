@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chetan195
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chetan Sawale.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on AI and ML Projects.
+- 📫 How to reach me https://www.linkedin.com/in/chetan-sawale-13bb79206
 
 <!---
 chetan195/chetan195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
