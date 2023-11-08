@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Sawale.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web Devlopment.
-- 💞️ I’m looking to collaborate on AI and ML Projects.
+- 💞️ I’m looking to collaborate on Frontend and BAckend Technologies.
 - 📫 How to reach me https://www.linkedin.com/in/chetan-sawale-13bb79206
 
 <!---
